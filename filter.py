@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-Path = "./test.txt"
+Path = "./Datasets/miniIMU/20201127 15:47:28 /IMURecord/Press_processed.txt"
 data = np.loadtxt(Path, usecols=(0, 1, 2), dtype=int, delimiter=',')
 print(data)
 print(data.mean(0))
