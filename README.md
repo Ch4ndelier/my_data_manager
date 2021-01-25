@@ -13,3 +13,5 @@ see: https://github.com/Ch4ndelier/LSTM_Zero_Velocity_classification
 * `gather_path.py`: To gather all the label path we need.
 
 * `label_generator.py`: using filter, process the press_label raw data for later use.
+
+* `data_preprocess.py`: before step prediction, transform y to float between 0 and 1.
