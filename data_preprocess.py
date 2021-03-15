@@ -1,7 +1,7 @@
 import numpy as np
 import os
 from sklearn import preprocessing
-
+# preprocess data into 0 - 1
 x = np.load('data/step_pre/1127_Xrow.npy')
 y = np.load('data/step_pre/1127_Yrow.npy')
 y = y.reshape(740, -1)

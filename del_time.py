@@ -1,4 +1,5 @@
 IMU_PATH = './Datasets/miniIMU/ori_paths.txt'
+# delete the time stamp
 
 
 def del_time(press_path, write_path):
