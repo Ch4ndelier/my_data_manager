@@ -1,4 +1,5 @@
 import os
+## gather the path we need
 rootdir = os.path.join('./Datasets/miniIMU')
 write_path = open('./Datasets/miniIMU/ori_paths.txt', 'w')
 for (dirpath, dirnames, filenames) in os.walk(rootdir):
