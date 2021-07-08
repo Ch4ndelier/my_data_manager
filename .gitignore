@@ -5,4 +5,6 @@ test_write.txt
 baddata.txt
 .DS_Store
 BM3D/DIV2K_train_HR
-BM3D/__pycache__
+BM3D2/__pycache__
+
+**/__pycache__
