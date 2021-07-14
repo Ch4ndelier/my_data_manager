@@ -2,9 +2,11 @@
 
 This a repository to process the data used in another project.
 
-see: https://github.com/Ch4ndelier/LSTM_Zero_Velocity_classification
-
 ## Scripts
+
+* `BM3D`: contains the BM3D process
+
+* `HRtoLR`: contains the method to turn an image to LR state.
 
 * `del_time.py`: Delete the time stamp in raw data.
 
