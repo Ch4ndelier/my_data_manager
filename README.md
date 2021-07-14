@@ -1,6 +1,6 @@
 ## Data_manager
 
-This a repository to process the data used in another project.
+This repository collects the method to process data.
 
 ## Scripts
 
